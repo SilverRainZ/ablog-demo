@@ -106,13 +106,13 @@ blog_authors = {
 # a link to a archive pages generated for each tag, category, and year.
 # In addition, there are authors.html, languages.html, and locations.html
 # sidebars that link to author and location archive pages.
-html_sidebars = {
-    '**': [ 'ablog/postcard.html', 'navigation.html',
-            'ablog/recentposts.html', 'ablog/tagcloud.html',
-            'ablog/categories.html',  'ablog/archives.html',
-            'searchbox.html',
-            ],
-    }
+# html_sidebars = {
+#     '**': [ 'ablog/postcard.html', 'navigation.html',
+#             'ablog/recentposts.html', 'ablog/tagcloud.html',
+#             'ablog/categories.html',  'ablog/archives.html',
+#             'searchbox.html',
+#             ],
+#     }
 
 # -- Blog Feed Options --------------------------------------------------------
 
@@ -270,13 +270,12 @@ todo_include_todos = False
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'alabaster'
+html_theme = 'shibuya'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 html_theme_options = {
-    'github_button': False,
 }
 
 # Add any paths that contain custom themes here, relative to this directory.

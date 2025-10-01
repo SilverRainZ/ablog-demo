@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://ablog.readthedocs.io/</id>
+  <title>ABlog Blog</title>
+  <updated>2025-10-01T16:10:04.749942+00:00</updated>
+  <link href="https://ablog.readthedocs.io/"/>
+  <link href="https://ablog.readthedocs.io/blog/atom.xml" rel="self"/>
+  <generator uri="https://ablog.readthedocs.io/" version="0.11.12">ABlog</generator>
+  <entry>
+    <id>https://ablog.readthedocs.io/third-post.html</id>
+    <title>Thrid Post</title>
+    <updated>2024-01-06T00:00:00+08:00</updated>
+    <author>
+      <name>ABlog Team</name>
+    </author>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;/p&gt;
+</content>
+    <link href="https://ablog.readthedocs.io/third-post.html"/>
+    <category term="atag" label="atag"/>
+    <published>2024-01-06T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>https://ablog.readthedocs.io/second-post.html</id>
+    <title>Second Post</title>
+    <updated>2024-01-06T00:00:00+08:00</updated>
+    <author>
+      <name>ABlog Team</name>
+    </author>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;/p&gt;
+</content>
+    <link href="https://ablog.readthedocs.io/second-post.html"/>
+    <category term="atag" label="atag"/>
+    <category term="btag" label="btag"/>
+    <published>2024-01-06T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>https://ablog.readthedocs.io/first-post.html</id>
+    <title>First Post</title>
+    <updated>2024-01-06T00:00:00+08:00</updated>
+    <author>
+      <name>ABlog Team</name>
+    </author>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;World, hello again! This very first paragraph of the post will be used
+as excerpt in archives and feeds. Find out how to control how much is shown
+in &lt;a class="reference external" href="https://ablog.readthedocs.io/manual/post-excerpts-and-images/"&gt;Post Excerpts and Images&lt;/a&gt;. Remember
+that you can refer to posts by file name, e.g. &lt;code class="docutils literal notranslate"&gt;&lt;span class="pre"&gt;:ref:`first-post`&lt;/span&gt;&lt;/code&gt; results
+in &lt;a class="reference internal" href="first-post.html#first-post"&gt;&lt;span class="std std-ref"&gt;First Post&lt;/span&gt;&lt;/a&gt;. Find out more at &lt;a class="reference external" href="https://ablog.readthedocs.io/manual/cross-referencing-blog-pages/"&gt;Cross-Referencing Blog Pages&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;
+</content>
+    <link href="https://ablog.readthedocs.io/first-post.html"/>
+    <summary>World, hello again! This very first paragraph of the post will be used
+as excerpt in archives and feeds. Find out how to control how much is shown
+in Post Excerpts and Images. Remember
+that you can refer to posts by file name, e.g. :ref:`first-post` results
+in first-post. Find out more at Cross-Referencing Blog Pages.</summary>
+    <category term="atag" label="atag"/>
+    <published>2024-01-06T00:00:00+08:00</published>
+  </entry>
+</feed>
